@@ -5,10 +5,10 @@
 ### Project 1  
 
 [World Happiness Exploration](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2021-03-14 at 20.54.01.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[News Summarizer](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
