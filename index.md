@@ -8,8 +8,8 @@
 <img src="images/Screenshot 2021-03-14 at 20.54.01.png"/>
 
 ---
-[News Summarizer](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[News Summarizer](/pdf/Daily_Report.pdf)
+<img src="images/Screenshot 2021-03-14 at 20.58.05.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
