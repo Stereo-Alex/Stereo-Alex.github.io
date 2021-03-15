@@ -2,9 +2,9 @@
 
 ---
 
-### Project 1  
+### Showcase  
 
-[World Happiness Exploration](/sample_page)
+[World Happiness Exploration](https://alex-jurado.medium.com/brief-exploration-on-world-happiness-a9ee5dc061ca)
 <img src="images/Screenshot 2021-03-14 at 20.54.01.png"/>
 
 ---
@@ -19,14 +19,14 @@
 
 [Guess The number / Binary algorithm](/sample_page)
 <img src="images/Screenshot 2021-03-15 at 15.07.09.png"/>
+
 ---
 
+### Repositories / Interesting links
 
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [World Happiness Exploration](https://github.com/Stereo-Alex/Project-Week-5-Your-Own-Project/)
+- [World Happiness Exploration Dashboard](https://interactive-dash-ironhack.herokuapp.com/)
+- [News Summarizer](https://github.com/Stereo-Alex/Project-Week-8-Final-Project)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
