@@ -27,9 +27,8 @@
 - [World Happiness Exploration](https://github.com/Stereo-Alex/Project-Week-5-Your-Own-Project/)
 - [World Happiness Exploration Dashboard](https://interactive-dash-ironhack.herokuapp.com/)
 - [News Summarizer](https://github.com/Stereo-Alex/Project-Week-8-Final-Project)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [The Barcelona Unemployment mistery](https://github.com/Stereo-Alex/Project-Week-2-Barcelona)
+- [Guess The number / Binary algorithm](https://github.com/Stereo-Alex/Project-Week-1-Build-Your-Own-Game)
 
 ---
 
