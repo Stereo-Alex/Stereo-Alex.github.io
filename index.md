@@ -17,6 +17,12 @@
 
 ---
 
+[Guess The number / Binary algorithm](/sample_page)
+<img src="images/Screenshot 2021-03-15 at 15.07.09.png"/>
+---
+
+
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
