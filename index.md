@@ -5,16 +5,22 @@
 ### Showcase  
 
 [World Happiness Exploration](https://alex-jurado.medium.com/brief-exploration-on-world-happiness-a9ee5dc061ca)
+
+
 Explored the state of world happiness and built an interactive dashboard with heroku with some interactive data visualizations and animations.
 <img src="images/Screenshot 2021-03-14 at 20.54.01.png"/>
 
 ---
 [News Summarizer](/pdf/Daily_Report.pdf)
+
+
 Using Transformers (BART, and BERT) built a text scrapper that scrapes news papers, cleans them and then generates summaries and word clouds and puts them into a pdf which is then emailed.
 <img src="images/Screenshot 2021-03-14 at 20.58.05.png"/>
 
 ---
 [The Barcelona Unemployment mistery](https://docs.google.com/presentation/d/1vyFAfJ942_LL3OzIL6IDuPePlSYvXTUKddT0wSBAVE8/edit?usp=sharing)
+
+
 Data analysis into unemployment in Barcelona
 <img src="images/Screenshot 2021-03-15 at 15.03.30.png"/>
 
