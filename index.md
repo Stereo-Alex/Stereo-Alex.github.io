@@ -33,9 +33,12 @@ As part of the final project for Applied Plotting, Charting and Data Representat
 Data analysis into unemployment in Barcelona
 <img src="images/Screenshot 2021-03-15 at 15.03.30.png"/>
 
+
 ---
 
 [Guess The number / Binary algorithm](https://github.com/Stereo-Alex/Project-Week-1-Build-Your-Own-Game)
+
+
 Simple game of guess the number where the computer can also play using a binary algorithm
 <img src="images/Screenshot 2021-03-15 at 15.07.09.png"/>
 
