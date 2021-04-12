@@ -18,6 +18,13 @@ Using Transformers (BART, and BERT) built a text scrapper that scrapes news pape
 <img src="images/Screenshot 2021-03-14 at 20.58.05.png"/>
 
 ---
+[PageRank algorithm and centrality](https://www.linkedin.com/feed/update/urn:li:activity:6786286772243439617/)
+
+
+Using the PageRank algorithm to visualize and analize a Facebook newtwork of friends. 
+<img src="images/Page_rank_and_Centrality.png"/>
+
+---
 [Visualizing Michigan's economic performance](https://coursera.org/share/668bf9fc48e2b5e88685b1fc34f3ce4e)
 
 
@@ -48,6 +55,7 @@ Simple game of guess the number where the computer can also play using a binary 
 
 - [World Happiness Exploration](https://github.com/Stereo-Alex/Project-Week-5-Your-Own-Project/)
 - [World Happiness Exploration Dashboard](https://interactive-dash-ironhack.herokuapp.com/)
+- [PageRank Repository](https://github.com/Stereo-Alex/Graph_Algorithms)
 - [Visualizing Michigan's economic performance](https://github.com/Stereo-Alex/Coursera/blob/main/Applied%20plotting%20/Week%204/Assignment4.ipynb)
 - [News Summarizer](https://github.com/Stereo-Alex/Project-Week-8-Final-Project)
 - [The Barcelona Unemployment mistery](https://github.com/Stereo-Alex/Project-Week-2-Barcelona)
@@ -57,13 +65,13 @@ Simple game of guess the number where the computer can also play using a binary 
 
 ### Relevant Self-learning Course Certificates 
 
-- [Introduction to Data Science by I.B.M.](https://coursera.org/share/e455bfa0e9856874e4309521a79a949f)
+- [Introduction to Data Science by I.B.M. (Specialization)](https://coursera.org/share/e455bfa0e9856874e4309521a79a949f)
 - [Data Science Math Skills by Duke University](https://coursera.org/share/a1d492e540895052e723a69302a49a00)
 - [Introduction to Data Science in Python by University of Michigan](https://coursera.org/share/d8dad2f9b8df8a616ba5a9edde471c98)
 - [Applied Plotting, Charting & Data Representation in Python](https://coursera.org/share/668bf9fc48e2b5e88685b1fc34f3ce4e)
+- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/42ZJTMMC25XF)
+- [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/certificate/5Q49J7YLNJ6M)
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
