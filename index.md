@@ -63,6 +63,7 @@ Simple game of guess the number where the computer can also play using a binary 
 - [World Happiness Exploration](https://github.com/Stereo-Alex/Project-Week-5-Your-Own-Project/)
 - [World Happiness Exploration Dashboard](https://interactive-dash-ironhack.herokuapp.com/)
 - [PageRank Repository](https://github.com/Stereo-Alex/Graph_Algorithms)
+- [Predicting customer churn](https://github.com/Stereo-Alex/Customer_churn_prediction)
 - [Visualizing Michigan's economic performance](https://github.com/Stereo-Alex/Coursera/blob/main/Applied%20plotting%20/Week%204/Assignment4.ipynb)
 - [News Summarizer](https://github.com/Stereo-Alex/Project-Week-8-Final-Project)
 - [The Barcelona Unemployment mistery](https://github.com/Stereo-Alex/Project-Week-2-Barcelona)
@@ -72,12 +73,10 @@ Simple game of guess the number where the computer can also play using a binary 
 
 ### Relevant Self-learning Course Certificates 
 
+- [Applied Data Science With Python (Specialization)](https://www.coursera.org/account/accomplishments/specialization/GQRBCA6Y9EXT)
+- [Statistics With Python](https://www.coursera.org/account/accomplishments/specialization/Z3TENQPSK5W2)
 - [Introduction to Data Science by I.B.M. (Specialization)](https://coursera.org/share/e455bfa0e9856874e4309521a79a949f)
 - [Data Science Math Skills by Duke University](https://coursera.org/share/a1d492e540895052e723a69302a49a00)
-- [Introduction to Data Science in Python by University of Michigan](https://coursera.org/share/d8dad2f9b8df8a616ba5a9edde471c98)
-- [Applied Plotting, Charting & Data Representation in Python](https://coursera.org/share/668bf9fc48e2b5e88685b1fc34f3ce4e)
-- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/42ZJTMMC25XF)
-- [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/certificate/5Q49J7YLNJ6M)
 
 
 
