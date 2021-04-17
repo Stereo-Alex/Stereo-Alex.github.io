@@ -25,6 +25,13 @@ Using the PageRank algorithm to visualize and analize a Facebook newtwork of fri
 <img src="images/Page_rank_and_Centrality.png"/>
 
 ---
+[Predicting customer churn](https://github.com/Stereo-Alex/Customer_churn_prediction)
+
+
+Exploring the data and creating a machine learning model to predict future customer churn
+<img src="images/Screenshot 2021-04-17 at 10.35.10.png"/>
+
+---
 [Visualizing Michigan's economic performance](https://coursera.org/share/668bf9fc48e2b5e88685b1fc34f3ce4e)
 
 
