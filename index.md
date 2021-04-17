@@ -74,10 +74,10 @@ Simple game of guess the number where the computer can also play using a binary 
 ### Relevant Self-learning Course Certificates 
 
 - [Applied Data Science With Python (Specialization)](https://www.coursera.org/account/accomplishments/specialization/GQRBCA6Y9EXT)
-- [Statistics With Python](https://www.coursera.org/account/accomplishments/specialization/Z3TENQPSK5W2)
+- [Statistics With Python (Specialization)](https://www.coursera.org/account/accomplishments/specialization/Z3TENQPSK5W2)
 - [Introduction to Data Science by I.B.M. (Specialization)](https://coursera.org/share/e455bfa0e9856874e4309521a79a949f)
 - [Data Science Math Skills by Duke University](https://coursera.org/share/a1d492e540895052e723a69302a49a00)
-
+- [Baysian Machine Learning in Python: A/B Testing](https://www.udemy.com/certificate/UC-928ecb82-b72b-497e-813c-b0b7c33be375/)
 
 
 <!-- Remove above link if you don't want to attibute -->
