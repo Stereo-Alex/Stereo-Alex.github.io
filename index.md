@@ -64,7 +64,7 @@ Simple game of guess the number where the computer can also play using a binary 
 - [World Happiness Exploration Dashboard](https://interactive-dash-ironhack.herokuapp.com/)
 - [PageRank Repository](https://github.com/Stereo-Alex/Graph_Algorithms)
 - [Predicting customer churn](https://github.com/Stereo-Alex/Customer_churn_prediction)
-- [Visualizing Michigan's economic performance](https://github.com/Stereo-Alex/Coursera/blob/main/Applied%20plotting%20/Week%204/Assignment4.ipynb)
+- [Visualizing Michigan's economic performance](https://github.com/Stereo-Alex/Coursera/blob/main/Applied%20Data%20science/Applied%20plotting%20/Week%204/Assignment4.ipynb)
 - [News Summarizer](https://github.com/Stereo-Alex/Project-Week-8-Final-Project)
 - [The Barcelona Unemployment mistery](https://github.com/Stereo-Alex/Project-Week-2-Barcelona)
 - [Guess The number / Binary algorithm](https://github.com/Stereo-Alex/Project-Week-1-Build-Your-Own-Game)
