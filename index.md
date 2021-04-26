@@ -21,7 +21,7 @@ Using the PageRank algorithm to visualize and analize a Facebook newtwork of fri
 [Apple's Time Series Stock predictions](https://github.com/Stereo-Alex/APPL_plotting_prediction)
 
 Basic data exploration and more complex time series prediction on future apple stock using both linear regression and a Deep Neural Network with an LSTM layer
-<img src="images/Screenshot 2021-04-17 at 10.35.10.png"/>
+<img src="images/Screenshot 2021-04-26 at 11.50.05.png"/>
 
 
 ---
@@ -29,7 +29,7 @@ Basic data exploration and more complex time series prediction on future apple s
 
 
 Exploring the data and creating a machine learning model to predict future customer churn
-<img src="images/Screenshot 2021-04-26 at 11.50.05.png"/>
+<img src="images/Screenshot 2021-04-17 at 10.35.10.png"/>
 
 
 ---
