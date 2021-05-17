@@ -23,6 +23,14 @@ Using the PageRank algorithm to visualize and analize a Facebook newtwork of fri
 Basic data exploration and more complex time series prediction on future apple stock using both linear regression and a Deep Neural Network with an LSTM layer
 <img src="images/Screenshot 2021-04-26 at 11.50.05.png"/>
 
+---
+[Fraud Detection](https://github.com/Stereo-Alex/Fraud_detection)
+
+
+Working with an inbalanced data set to explore and predict Credit Card Fraud. 
+<img src="images/Screenshot 2021-05-17 at 15.27.18.png"/>
+
+
 
 ---
 [Predicting customer churn](https://github.com/Stereo-Alex/Customer_churn_prediction)
@@ -73,6 +81,7 @@ Simple game of guess the number where the computer can also play using a binary 
 - [World Happiness Exploration Dashboard](https://interactive-dash-ironhack.herokuapp.com/)
 - [PageRank Repository](https://github.com/Stereo-Alex/Graph_Algorithms)
 - [Apple's Time Series Stock predictions](https://github.com/Stereo-Alex/APPL_plotting_prediction)
+- [Fraud Detection](https://github.com/Stereo-Alex/Fraud_detection)
 - [Predicting customer churn](https://github.com/Stereo-Alex/Customer_churn_prediction)
 - [Visualizing Michigan's economic performance](https://github.com/Stereo-Alex/Coursera/blob/main/Applied%20Data%20science/Applied%20plotting%20/Week%204/Assignment4.ipynb)
 - [News Summarizer](https://github.com/Stereo-Alex/Project-Week-8-Final-Project)
